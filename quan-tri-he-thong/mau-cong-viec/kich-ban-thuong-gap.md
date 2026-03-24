@@ -6,7 +6,7 @@
 
 **Ví dụ:** Tôi muốn tạo một danh sách các công việc mặc định như "Bàn giao thiết bị", "Đào tạo văn hóa" để áp dụng mỗi khi có nhân viên mới vào làm.
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
 1. Bước 1: Nhấn nút + Tạo mẫu ở góc trên cùng bên phải màn hình.
 2. Bước 2: Nhập tên mẫu là "Quy trình Onboarding" và chọn vị trí công việc tương ứng.
@@ -25,7 +25,7 @@
 
 **Ví dụ:** Tôi muốn thiết lập một mẫu công việc chuyên về gửi email mời phỏng vấn để đảm bảo HR không bỏ sót bước này.
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
 1. Bước 1: Trong giao diện tạo mẫu mới, nhập tên "Mời phỏng vấn chuyên viên".
 2. Bước 2: Nhấn + Thêm công việc, tại mục Loại công việc, chọn phương thức Gửi Email.
@@ -33,11 +33,11 @@
 4. Bước 4: Nhấn Tạo mới để lưu mẫu vào danh sách.
 
 {% hint style="success" %}
-<mark style="color:green;background-color:green;">Mẹo:</mark>&#x20;
+<mark style="color:green;background-color:green;">Mẹo:</mark>
 
 1. Việc điền thông tin vào phần Mô tả sẽ giúp nhân viên HR nắm rõ các mẫu câu hoặc lưu ý cần có trong nội dung email.
 
-####
+
 {% endhint %}
 
 </details>
@@ -48,7 +48,7 @@
 
 **Ví dụ:** Tôi muốn tạo một lộ trình đào tạo kinh doanh riêng biệt cho vị trí "Chuyên viên Digital Marketing".
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
 1. Bước 1: Tại màn hình Tạo mới, chọn Vị trí công việc là "Chuyên viên Digital Marketing" từ danh sách thả xuống.
 2. Bước 2: Tạo các công việc chi tiết như "Đào tạo công cụ quảng cáo", "Hướng dẫn báo cáo tuần".
@@ -67,7 +67,7 @@
 
 **Ví dụ:** Danh sách mẫu công việc quá dài và tôi muốn chỉ hiển thị những cột thông tin quan trọng như "Tên phiếu" và "Trạng thái".
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
 1. Bước 1: Tại màn hình chính của Mẫu công việc, nhấn vào biểu tượng Cột ở bộ công cụ phía trên bên phải.
 2. Bước 2: Tích chọn các cột cần giữ lại và bỏ tích các cột không cần thiết để làm gọn bảng.
@@ -85,7 +85,7 @@
 
 **Ví dụ:** Tôi đã có danh sách các nhiệm vụ tuyển dụng trong file Excel và muốn đưa nhanh vào hệ thống thay vì nhập từng dòng.
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
 1. Bước 1: Tại màn hình chính, nhấn vào biểu tượng ba chấm (...).
 2. Bước 2: Chọn Nhập dữ liệu để tải file từ máy tính lên hệ thống.
@@ -103,7 +103,7 @@
 
 **Ví dụ:** Có một mẫu đào tạo cũ không còn phù hợp nhưng tôi không muốn xóa hẳn để giữ lại làm dữ liệu tham khảo.
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
 1. Bước 1: Tìm mẫu công việc cần chỉnh sửa trong danh sách chính.
 2. Bước 2: Nhấn vào tên mẫu để vào chế độ chỉnh sửa.
@@ -122,7 +122,7 @@
 
 **Ví dụ:** Tôi muốn thiết lập mẫu công việc "Cấp tài khoản phần mềm" và đảm bảo nó luôn được gửi đúng tới bộ phận kỹ thuật.
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
 1. Bước 1: Tạo mẫu mới và thêm công việc "Khởi tạo User & Password".
 2. Bước 2: Tại mục Gán vai trò, chọn chính xác đối tượng là IT Admin.
@@ -137,18 +137,18 @@
 
 <details>
 
-<summary><mark style="color:blue;">6.</mark> </summary>
+<summary><mark style="color:blue;">6.</mark></summary>
 
-**Ví dụ:**&#x20;
+**Ví dụ:**
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
-1. Bước 1:&#x20;
-2. Bước 2:&#x20;
-3. Bước 3:&#x20;
+1. Bước 1:
+2. Bước 2:
+3. Bước 3:
 
 {% hint style="success" %}
-<mark style="color:green;background-color:green;">Mẹo:</mark>&#x20;
+<mark style="color:green;background-color:green;">Mẹo:</mark>
 {% endhint %}
 
 </details>

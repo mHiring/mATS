@@ -101,19 +101,31 @@
 * [Kết nối](quan-tri-he-thong/ket-noi.md)
 * [OpenAPI](quan-tri-he-thong/openapi.md)
 
+## Nhân viên tuyển dụng
+
+* [Quản lý tin tuyển dụng](nhan-vien-tuyen-dung/quan-ly-tin-tuyen-dung/README.md)
+  * [Tổng quan giao diện chính](nhan-vien-tuyen-dung/quan-ly-tin-tuyen-dung/tong-quan-giao-dien-chinh.md)
+  * [Hội đồng tuyển dụng](nhan-vien-tuyen-dung/quan-ly-tin-tuyen-dung/hoi-dong-tuyen-dung.md)
+  * [Báo cáo tin tuyển dụng](nhan-vien-tuyen-dung/quan-ly-tin-tuyen-dung/bao-cao-tin-tuyen-dung.md)
+  * [FAQ](nhan-vien-tuyen-dung/quan-ly-tin-tuyen-dung/faq.md)
+* [Thiết lập tin tuyển dụng](nhan-vien-tuyen-dung/thiet-lap-tin-tuyen-dung/README.md)
+  * [Tạo bằng biểu mẫu](nhan-vien-tuyen-dung/thiet-lap-tin-tuyen-dung/tao-bang-bieu-mau.md)
+  * [Tạo tin tuyển dụng bằng Al](nhan-vien-tuyen-dung/thiet-lap-tin-tuyen-dung/tao-tin-tuyen-dung-bang-al.md)
+  * [Tạo tin tuyển dụng từ mẫu có sẵn](nhan-vien-tuyen-dung/thiet-lap-tin-tuyen-dung/tao-tin-tuyen-dung-tu-mau-co-san.md)
+  * [Tạo tin bằng đường link URL](nhan-vien-tuyen-dung/thiet-lap-tin-tuyen-dung/tao-tin-bang-duong-link-url.md)
+  * [Page 3](nhan-vien-tuyen-dung/thiet-lap-tin-tuyen-dung/page-3.md)
+  * [Page 4](nhan-vien-tuyen-dung/thiet-lap-tin-tuyen-dung/page-4.md)
+  * [Chỉnh sửa tin tuyển dụng](nhan-vien-tuyen-dung/thiet-lap-tin-tuyen-dung/chinh-sua-tin-tuyen-dung.md)
+  * [FAQ](nhan-vien-tuyen-dung/thiet-lap-tin-tuyen-dung/faq.md)
+* [Page 1](nhan-vien-tuyen-dung/page-1.md)
+
+## Hội đồng tuyển dụng
+
+* [Quản lý tin tuyển dụng](hoi-dong-tuyen-dung/quan-ly-tin-tuyen-dung/README.md)
+  * [Tổng quan giao diện chính](hoi-dong-tuyen-dung/quan-ly-tin-tuyen-dung/tong-quan-giao-dien-chinh.md)
+
 ## QUẢN LÝ TUYỂN DỤNG
 
-* [Quản lý tin tuyển dụng](quan-ly-tuyen-dung/quan-ly-tin-tuyen-dung/README.md)
-  * [Tổng quan giao diện chính](quan-ly-tuyen-dung/quan-ly-tin-tuyen-dung/tong-quan-giao-dien-chinh.md)
-  * [Hội đồng tuyển dụng](quan-ly-tuyen-dung/quan-ly-tin-tuyen-dung/hoi-dong-tuyen-dung.md)
-  * [Báo cáo tin tuyển dụng](quan-ly-tuyen-dung/quan-ly-tin-tuyen-dung/bao-cao-tin-tuyen-dung.md)
-  * [FAQ](quan-ly-tuyen-dung/quan-ly-tin-tuyen-dung/faq.md)
-* [Thiết lập tin tuyển dụng](quan-ly-tuyen-dung/thiet-lap-tin-tuyen-dung/README.md)
-  * [Tạo bằng biểu mẫu](quan-ly-tuyen-dung/thiet-lap-tin-tuyen-dung/tao-bang-bieu-mau.md)
-  * [Tạo tin tuyển dụng bằng Al](quan-ly-tuyen-dung/thiet-lap-tin-tuyen-dung/tao-tin-tuyen-dung-bang-al.md)
-  * [Tạo tin tuyển dụng từ mẫu có sẵn](quan-ly-tuyen-dung/thiet-lap-tin-tuyen-dung/tao-tin-tuyen-dung-tu-mau-co-san.md)
-  * [Chỉnh sửa tin tuyển dụng](quan-ly-tuyen-dung/thiet-lap-tin-tuyen-dung/chinh-sua-tin-tuyen-dung.md)
-  * [FAQ](quan-ly-tuyen-dung/thiet-lap-tin-tuyen-dung/faq.md)
 * [Chia sẻ tin tuyển dụng](quan-ly-tuyen-dung/chia-se-tin-tuyen-dung/README.md)
   * [Tổng quan giao diện kênh đăng tuyển](quan-ly-tuyen-dung/chia-se-tin-tuyen-dung/tong-quan-giao-dien-kenh-dang-tuyen.md)
   * [Thiết lập landing page](quan-ly-tuyen-dung/chia-se-tin-tuyen-dung/thiet-lap-landing-page.md)
