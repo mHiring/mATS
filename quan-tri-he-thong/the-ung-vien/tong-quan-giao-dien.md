@@ -2,7 +2,7 @@
 
 ## 1. Tổng quan giao diện Danh sách Nhãn
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Tại màn hình chính của "Nhãn ứng viên", bạn có thể theo dõi danh sách các nhãn đã tạo với các thông tin:
 
@@ -15,7 +15,7 @@ Tại màn hình chính của "Nhãn ứng viên", bạn có thể theo dõi dan
 
 ## 2. Cách tạo mới Nhãn ứng viên
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Để thêm một nhãn mới, bạn thực hiện các bước sau
 

@@ -10,7 +10,7 @@ icon: question
 
 **Ví dụ:** Tôi muốn có một bản mô tả công việc chuyên nghiệp mà không cần tự viết tay từng chữ.
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
 * Bước 1: Tại Trường 2, nhấn nút \[Tạo bằng AI].
 
@@ -31,7 +31,7 @@ Mẹo: <mark style="color:green;background-color:green;">Sau khi AI hoàn tất,
 
 **Ví dụ:** Tôi muốn điền nhanh thông tin liên lạc của mình vào tin đăng để ứng viên tiện phản hồi.
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
 * Bước 1: Di chuyển đến Trường 3 (Thông tin liên hệ).
 
@@ -51,7 +51,7 @@ Mẹo: <mark style="color:green;background-color:green;">Sau khi AI hoàn tất,
 
 **Ví dụ:** Tôi muốn màn hình quản lý chỉ hiển thị những thông tin quan trọng như "Hạn chót" hoặc "Vị trí".
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
 * Bước 1: Tại màn hình danh sách, nhấn vào biểu tượng Cột ở góc phải.
 
@@ -71,7 +71,7 @@ Mẹo: <mark style="color:green;background-color:green;">Sau khi AI hoàn tất,
 
 **Ví dụ:** Tôi muốn ứng viên nộp vào tin đăng này phải đi theo đúng các bước phỏng vấn của bộ phận Tech.
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
 * Bước 1: Tại Trường 1, tìm mục Quy trình tuyển dụng.
 
@@ -91,7 +91,7 @@ Mẹo: <mark style="color:green;background-color:green;">Sau khi AI hoàn tất,
 
 **Ví dụ:** Tôi muốn tin tuyển dụng tự động đóng khi hết thời gian nhận hồ sơ để tránh lãng phí.
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
 * Bước 1: Tại Trường 1, tìm mục Hạn chót ứng tuyển.
 
@@ -111,7 +111,7 @@ Mẹo: <mark style="color:green;background-color:green;">Sau khi AI hoàn tất,
 
 **Ví dụ:** Tôi không muốn mất thời gian nhập thủ công hàng chục tin tuyển dụng vào hệ thống.
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
 * Bước 1: Nhấn vào dấu ba chấm (...) ở góc phải màn hình quản lý.
 * Bước 2: Chọn chức năng Nhập dữ liệu để tải file Excel lên hệ thống.
@@ -130,7 +130,7 @@ Mẹo: <mark style="color:green;background-color:green;">Sau khi AI hoàn tất,
 
 **Ví dụ:** Tôi muốn tránh tình trạng mỗi HR đặt tên vị trí một kiểu gây loạn dữ liệu báo cáo.
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
 * Bước 1: Tại Trường 1, sử dụng ô Vị trí công việc để chọn các chức danh đã cấu hình sẵn.
 
@@ -150,7 +150,7 @@ Mẹo: <mark style="color:green;background-color:green;">Sau khi AI hoàn tất,
 
 **Ví dụ:** Tôi sợ tin đăng sau khi xuất bản bị lỗi xuống dòng hoặc sai định dạng văn bản.
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
 * Bước 1: Sử dụng bộ công cụ định dạng tại Trường 2 khi soạn thảo thủ công.
 
@@ -170,7 +170,7 @@ Mẹo: <mark style="color:green;background-color:green;">Sau khi AI hoàn tất,
 
 **Ví dụ:** Tôi muốn nhanh chóng có một bản mô tả công việc đầy đủ cho vị trí 'Nhân viên Hành chính' để đăng tuyển ngay trong buổi sáng mà không phải tự ngồi gõ từng dòng.
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
 * Bước 1: Trong khung soạn thảo tin tuyển dụng, nhấn vào nút \[Tạo bằng AI] ở góc phải màn hình.
 
@@ -191,11 +191,11 @@ Mẹo: <mark style="color:green;background-color:green;">Sau khi AI hoàn tất,
 
 **Ví dụ:** Tôi muốn soạn thảo yêu cầu công việc cho vị trí 'Kỹ sư AI' với các thuật ngữ chuyên môn chính xác dù tôi không phải là người rành về kỹ thuật.
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
 * Bước 1: Nhập chính xác tên vị trí chuyên môn vào ô chức danh trong trình tạo AI.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Bước 2: Tại mục Hướng dẫn bổ sung, nhập các từ khóa kỹ thuật cần thiết (ví dụ: Machine Learning, Python, NLP).
 * Bước 3: Nhấn tạo để AI tự động sắp xếp và diễn đạt các yêu cầu chuyên môn này một cách bài bản.
@@ -208,37 +208,36 @@ Mẹo: <mark style="color:green;background-color:green;">Sau khi AI hoàn tất,
 
 <details>
 
-<summary><mark style="color:blue;">1.</mark> </summary>
+<summary><mark style="color:blue;">1.</mark></summary>
 
-**Ví dụ:**&#x20;
+**Ví dụ:**
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
-1. Bước 1:&#x20;
-2. Bước 2:&#x20;
-3. Bước 3:&#x20;
+1. Bước 1:
+2. Bước 2:
+3. Bước 3:
 
 {% hint style="success" %}
-<mark style="color:green;background-color:green;">Mẹo:</mark>&#x20;
+<mark style="color:green;background-color:green;">Mẹo:</mark>
 {% endhint %}
 
 </details>
 
 <details>
 
-<summary><mark style="color:blue;">1.</mark> </summary>
+<summary><mark style="color:blue;">1.</mark></summary>
 
-**Ví dụ:**&#x20;
+**Ví dụ:**
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
-1. Bước 1:&#x20;
-2. Bước 2:&#x20;
-3. Bước 3:&#x20;
+1. Bước 1:
+2. Bước 2:
+3. Bước 3:
 
 {% hint style="success" %}
-<mark style="color:green;background-color:green;">Mẹo:</mark>&#x20;
+<mark style="color:green;background-color:green;">Mẹo:</mark>
 {% endhint %}
 
 </details>
-

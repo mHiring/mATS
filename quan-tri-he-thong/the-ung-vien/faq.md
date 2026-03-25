@@ -10,7 +10,7 @@ icon: question
 
 **Ví dụ:** Tôi muốn đánh dấu các ứng viên có "Kỹ năng thuyết trình" tốt để dễ dàng lọc ra sau buổi phỏng vấn sơ loại.
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
 * Bước 1: Tại màn hình "Nhãn ứng viên", nhấn nút + Tạo mới ở góc trên bên phải.
 * Bước 2: Nhập Tên Nhãn ứng viên là "Kỹ năng thuyết trình".
@@ -28,7 +28,7 @@ icon: question
 
 **Ví dụ:** Tôi muốn tạo nhãn "Tự học hỏi" để gắn cho những ứng viên chưa có nhiều kinh nghiệm nhưng có thái độ cầu tiến.
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
 * Bước 1: Nhấn nút + Tạo mới và để hệ thống tự động sinh ID Nhãn ứng viên.
 * Bước 2: Nhập tên tiêu chí "Tự học hỏi" vào ô bắt buộc (\*).
@@ -47,7 +47,7 @@ icon: question
 
 **Ví dụ:** Tôi có danh sách 50 kỹ năng chuyên ngành và muốn đưa lên hệ thống cùng lúc thay vì nhập thủ công từng nhãn.
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
 * Bước 1: Nhấn vào biểu tượng ba dấu chấm (...) và chọn Nhập dữ liệu.
 * Bước 2: Nhấn + Thêm nhập dữ liệu để tải file danh sách kỹ năng của bạn lên hệ thống.
@@ -66,11 +66,11 @@ icon: question
 
 **Ví dụ:** Tôi muốn xuất danh sách toàn bộ các nhãn đang hoạt động ra file Excel để báo cáo hoặc đồng bộ với hệ thống khác.
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
 * Bước 1: Nhấn vào biểu tượng ba dấu chấm (...) và chọn Xuất dữ liệu.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 * Bước 2: Chọn định dạng xuất là Excel.
 * Bước 3: Tùy chọn "Xuất tất cả bản ghi" hoặc tích chọn các trường cần thiết như ID, Tên, Màu sắc.
@@ -88,7 +88,7 @@ icon: question
 
 **Ví dụ:** Màn hình danh sách nhãn đang hiển thị quá nhiều thông tin không cần thiết, tôi chỉ muốn xem Tên nhãn và Trạng thái.
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
 * Bước 1: Tại màn hình danh sách, tìm và nhấn vào nút tính năng Cột.
 * Bước 2: Bỏ tích chọn các cột như "ID Nhãn", "Ngày tạo", "Màu nhãn".
@@ -107,7 +107,7 @@ icon: question
 
 **Ví dụ:** Hệ thống có rất nhiều nhãn, tôi muốn tìm nhanh nhãn "Nhanh nhẹn" để kiểm tra xem nó đang ở trạng thái hoạt động hay không.
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
 * Bước 1: Sử dụng thanh Tìm kiếm ở phía trên màn hình danh sách.
 * Bước 2: Nhập từ khóa "Nhanh nhẹn" vào ô tìm kiếm.
@@ -120,108 +120,108 @@ icon: question
 
 <details>
 
-<summary>7<mark style="color:blue;">.</mark> </summary>
+<summary>7<mark style="color:blue;">.</mark></summary>
 
-**Ví dụ:**&#x20;
+**Ví dụ:**
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
-1. Bước 1:&#x20;
-2. Bước 2:&#x20;
-3. Bước 3:&#x20;
+1. Bước 1:
+2. Bước 2:
+3. Bước 3:
 
 {% hint style="success" %}
-<mark style="color:green;background-color:green;">Mẹo:</mark>&#x20;
+<mark style="color:green;background-color:green;">Mẹo:</mark>
 {% endhint %}
 
 </details>
 
 <details>
 
-<summary><mark style="color:blue;">1.</mark> </summary>
+<summary><mark style="color:blue;">1.</mark></summary>
 
-**Ví dụ:**&#x20;
+**Ví dụ:**
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
-1. Bước 1:&#x20;
-2. Bước 2:&#x20;
-3. Bước 3:&#x20;
+1. Bước 1:
+2. Bước 2:
+3. Bước 3:
 
 {% hint style="success" %}
-<mark style="color:green;background-color:green;">Mẹo:</mark>&#x20;
+<mark style="color:green;background-color:green;">Mẹo:</mark>
 {% endhint %}
 
 </details>
 
 <details>
 
-<summary><mark style="color:blue;">1.</mark> </summary>
+<summary><mark style="color:blue;">1.</mark></summary>
 
-**Ví dụ:**&#x20;
+**Ví dụ:**
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
-1. Bước 1:&#x20;
-2. Bước 2:&#x20;
-3. Bước 3:&#x20;
+1. Bước 1:
+2. Bước 2:
+3. Bước 3:
 
 {% hint style="success" %}
-<mark style="color:green;background-color:green;">Mẹo:</mark>&#x20;
+<mark style="color:green;background-color:green;">Mẹo:</mark>
 {% endhint %}
 
 </details>
 
 <details>
 
-<summary><mark style="color:blue;">1.</mark> </summary>
+<summary><mark style="color:blue;">1.</mark></summary>
 
-**Ví dụ:**&#x20;
+**Ví dụ:**
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
-1. Bước 1:&#x20;
-2. Bước 2:&#x20;
-3. Bước 3:&#x20;
+1. Bước 1:
+2. Bước 2:
+3. Bước 3:
 
 {% hint style="success" %}
-<mark style="color:green;background-color:green;">Mẹo:</mark>&#x20;
+<mark style="color:green;background-color:green;">Mẹo:</mark>
 {% endhint %}
 
 </details>
 
 <details>
 
-<summary><mark style="color:blue;">1.</mark> </summary>
+<summary><mark style="color:blue;">1.</mark></summary>
 
-**Ví dụ:**&#x20;
+**Ví dụ:**
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
-1. Bước 1:&#x20;
-2. Bước 2:&#x20;
-3. Bước 3:&#x20;
+1. Bước 1:
+2. Bước 2:
+3. Bước 3:
 
 {% hint style="success" %}
-<mark style="color:green;background-color:green;">Mẹo:</mark>&#x20;
+<mark style="color:green;background-color:green;">Mẹo:</mark>
 {% endhint %}
 
 </details>
 
 <details>
 
-<summary><mark style="color:blue;">1.</mark> </summary>
+<summary><mark style="color:blue;">1.</mark></summary>
 
-**Ví dụ:**&#x20;
+**Ví dụ:**
 
-**Giải pháp:**&#x20;
+**Giải pháp:**
 
-1. Bước 1:&#x20;
-2. Bước 2:&#x20;
-3. Bước 3:&#x20;
+1. Bước 1:
+2. Bước 2:
+3. Bước 3:
 
 {% hint style="success" %}
-<mark style="color:green;background-color:green;">Mẹo:</mark>&#x20;
+<mark style="color:green;background-color:green;">Mẹo:</mark>
 {% endhint %}
 
 </details>

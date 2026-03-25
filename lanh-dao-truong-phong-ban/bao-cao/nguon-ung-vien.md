@@ -14,7 +14,7 @@
 
 ## 3. Các bước thực hiện chi tiết
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Bước 1: Đọc và phân tích biểu đồ tròn (Tổng hợp nguồn ứng viên)
 
