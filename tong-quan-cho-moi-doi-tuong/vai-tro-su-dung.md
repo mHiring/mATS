@@ -1,8 +1,12 @@
+---
+icon: user-group
+---
+
 # Vai trò sử dụng
 
 Trong MBW ATS, mỗi nhóm người dùng có một góc nhìn và công việc riêng. Tài liệu hướng dẫn cũng được chia theo các vai trò dưới đây.
 
-## 1. Nhân viên tuyển dụng&#x20;
+## 1. Nhân viên tuyển dụng
 
 * Là người trực tiếp khởi tạo dữ liệu ATS và các thư viện mẫu phục vụ cho công tác vận hành hàng ngày.
 * Công việc chính:
@@ -12,7 +16,7 @@ Trong MBW ATS, mỗi nhóm người dùng có một góc nhìn và công việc 
   * Theo dõi tiến độ công việc cá nhân và báo cáo hiệu quả tuyển dụng.
 * Khu vực sử dụng nhiều: Thiết lập công ty, quy trình tuyển dụng, bộ câu hỏi sàng lọc, danh sách các mẫu Email.
 
-## 2. Quản lý tuyển dụng&#x20;
+## 2. Quản lý tuyển dụng
 
 * Là quản lý trực tiếp của bộ phận cần tuyển, chịu trách nhiệm điều phối các hoạt động tuyển dụng cụ thể.
 * Công việc chính:
